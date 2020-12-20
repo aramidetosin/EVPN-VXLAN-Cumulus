@@ -3,9 +3,9 @@
 ### Automating Cumulus Flat Files
 
 
-![alt text](https://github.com/IPvZero/EVPN-VXLAN-Cumulus/blob/main/images/evpn.png?raw=true)
+![alt text](https://github.com/aramidetosin/EVPN-VXLAN-Cumulus/blob/main/images/evpn.png?raw=true)
 
-![alt text](https://github.com/IPvZero/EVPN-VXLAN-Cumulus/blob/main/images/evpn4.png?raw=true)
+![alt text](https://github.com/aramidetosin/EVPN-VXLAN-Cumulus/blob/main/images/evpn4.png?raw=true)
 
 ### Contact
 
