@@ -1,0 +1,4 @@
+ansible_python_interpreter: "/usr/bin/env python"
+ansible_network_os: "cumulus"
+ansible_user: "root"
+ansible_password: "cumulus1"
